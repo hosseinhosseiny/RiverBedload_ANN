@@ -1,4 +1,5 @@
-# RiverBedload_MLP
+# RiverBedload Neural Networks Model
+
 This project is associated with the paper "Development of a Machine Leanring Model for River Bedload" by Hosseiny et al. under review in ESurfD journal. 
 
 This folder contains 
