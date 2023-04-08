@@ -1,4 +1,4 @@
-# Artificial Neural Networks (ANN) Model for RiverBedload 
+# Artificial Neural Networks (ANN) Model for River Bedload 
 
 This project is associated with the paper "Development of a Machine Leanring Model for River Bedload" by Hosseiny et al. under review in ESurfD journal. 
 
