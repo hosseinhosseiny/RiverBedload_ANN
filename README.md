@@ -5,5 +5,5 @@ This project is associated with the paper "Development of a Machine Leanring Mod
 
 This folder contains 
 (1) a Google Colab page which describes how to use trained neural networks model for predicting river bedload. 
-(2) Trained ANN Model developed by Keras (zip folder)
-(3) Excel file containing train/test data along with calculated variables
+(2) Trained ANN Model developed utilizing Keras (zip folder)
+(3) Excel file containing train/test data for river bedload along with calculated variables
