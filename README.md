@@ -1,4 +1,7 @@
 # RiverBedload_MLP
-Development of a machine learning model for river bedload
+This project is associated with the paper "Development of a Machine Leanring Model for River Bedload" by Hosseiny et al. under review in ESurfD journal. 
 
-This Google Colab page describes how to use trained machine learning bedload model (Multi-layer perceptron) described in the paper "Development of a Machine Leanring Model for River Bedload" by Hosseiny et al. (2022)
+This folder contains 
+(1) a Google Colab page which describes how to use trained neural networks model for predicting river bedload. 
+(2) Trained Model developed by Keras
+(3) Excel file containing training data along with calculated variables
